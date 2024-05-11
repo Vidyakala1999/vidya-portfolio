@@ -1,0 +1,91 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/htm.png",
+      "title": "HTML",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "3",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzeCxyntwX_GQYc9yLzoju2ViNtPY81p2fjwtYPE0cTwjixvtG5SG28dIYHCKTUCStEsA&usqp=CAU",
+      "title": "REACT",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "https://www.shutterstock.com/image-vector/body-mass-index-fitness-exercise-600nw-2011181516.jpg",
+      "title": "BMI Calculator",
+      "description": "A BMI Calculator developed using html,css and javascript",
+      "link": "https://bmicalculatertask.netlify.app/"
+    },
+    {
+      "id": "2",
+      "src": "https://hips.hearstapps.com/digitalspyuk.cdnds.net/13/46/gaming-candy-crush-saga.jpg?resize=980:*",
+      "title": "Candy Crush ",
+      "description": "A candy crush game developed using React and api fetching",
+      "link": "https://candycrushgame1.netlify.app/"
+    },
+    {
+      "id": "3",
+      "src": "https://img.freepik.com/free-vector/flat-design-monsoon-season-clouds-illustration_23-2149424294.jpg",
+      "title": "Weather App",
+      "description": "A weather app developed using react and openweather api",
+      "link": "https://wea-therapp.netlify.app/"
+    },
+     {
+      "id": "4",
+      "src": "https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "title": "Food Gallery",
+      "description": "A basic food site developed using html,css and bootstrap",
+      "link": "https://food-gallery1.netlify.app/"
+    },
+    {
+      "id": "5",
+      "src": "https://i.pinimg.com/736x/84/70/94/847094a5d2df67f4fc7a7a6b77bcfe7b.jpg",
+      "title": "Travel Site",
+      "description": "A travel site developed using html,css andbootstrap",
+      "link": "https://travel-task1.netlify.app/"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
